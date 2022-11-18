@@ -8,7 +8,6 @@ import android.widget.SeekBar
 
 
 class MainActivity : AppCompatActivity() {
-
     lateinit var play_btn : ImageButton
     lateinit var stop_btn : ImageButton
     lateinit var ref_seekbar : SeekBar

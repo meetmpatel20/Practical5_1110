@@ -17,6 +17,7 @@ class MyService: Service() {
         var startTimeS=0;
         var finalTimeS=0;
         var currentTimeS=0;
+
     }
     private var startTime = 0
     private var finalTime = 0
