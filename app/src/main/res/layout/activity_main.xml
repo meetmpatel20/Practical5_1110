@@ -16,7 +16,6 @@
             app:title="Practical5_20012011110"
             app:navigationIcon="@drawable/ic_baseline_menu_24"/>
 
-
         <androidx.core.widget.NestedScrollView
             android:layout_width="match_parent"
             android:layout_height="669dp"
